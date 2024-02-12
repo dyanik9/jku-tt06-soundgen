@@ -18,4 +18,3 @@ async def test_soundgen(dut):
 	
 	#await ClockCycles(dut.clk, 80000000)	# 8s simulation
 	await ClockCycles(dut.clk, 1000000)	# 100ms simulation
-	#assert int(dut.counter_out.value) == 0
