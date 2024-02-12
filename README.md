@@ -5,3 +5,6 @@ Plays prelude.wav in real Hardware. This works with a sine stored as lookup-tabl
 
 # Prelude.wav
 https://github.com/dyanik9/SoundGenerator/assets/49497605/4984bcf2-3230-41aa-a64f-a4861b7525ec
+prelude.wav
+
+https://github.com/dyanik9/jku-tt06-soundgen/blob/main/prelude.wav
