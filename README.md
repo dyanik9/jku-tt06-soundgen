@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg)
 
-# SoundGenerator
+# soundgen
 Plays prelude.wav in real Hardware. This works with a sine stored as lookup-table which is being played with varying frequency. To test connect a Piezo to given Pins and listen!
 
 # Prelude.wav
